@@ -17,17 +17,20 @@ Odpalając aplikacje ukaże się nam jej okno  wraz z pustym polem tekstowym, or
 
 ## Screenshoty
 ####  C </br>
-![obraz](https://github.com/ptrZawisza/NOTEPAD-Projekt/assets/143951083/6190a99f-a140-4291-9e71-5f20f26907a6) </br>
+![obraz](https://github.com/ptrZawisza/java-wsb/assets/143951083/4080c174-8e7f-49c1-be8d-6667526899b0)
+ </br>
 
 #### C++ </br> 
-![obraz](https://github.com/ptrZawisza/NOTEPAD-Projekt/assets/143951083/ca4ec7a7-1691-4c98-be07-ce3de77b2c1f)
-
+![obraz](https://github.com/ptrZawisza/java-wsb/assets/143951083/4d8537ff-6a81-4696-8648-e8b8da05b594)
 
 #### Java </br>
-![obraz](https://github.com/ptrZawisza/NOTEPAD-Projekt/assets/143951083/9b50b8f7-7901-4881-9f80-148071bdbe84)</br>
+![obraz](https://github.com/ptrZawisza/java-wsb/assets/143951083/0538c6ed-7426-4853-81fc-5662549e3f7a)
+</br>
 
 #### Txt
-![obraz](https://github.com/ptrZawisza/NOTEPAD-Projekt/assets/143951083/2ed7c6e0-9d9b-47f6-aa4e-12e21edc3697)</br>
+![obraz](https://github.com/ptrZawisza/java-wsb/assets/143951083/c390d28e-2552-4e22-9a4f-013254a281a4)
+</br>
 
 #### JFileChooser 
-![obraz](https://github.com/ptrZawisza/NOTEPAD-Projekt/assets/143951083/b68ace8f-0eff-492e-a672-47ba96220a27) </br>
+![obraz](https://github.com/ptrZawisza/java-wsb/assets/143951083/4f2d973f-6199-4ff3-b839-8aed1a092737)
+
